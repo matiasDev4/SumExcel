@@ -8,7 +8,7 @@
 
 ## Tecnologias que utilice
 <p>
- <h1 aling="center" >Pythont</h1>
+ <h1 aling="center" >Python</h1>
  <img src="https://skillicons.dev/icons?i=python" />
 
  <h1 aling="center" >Pandas</h1>
