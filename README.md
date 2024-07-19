@@ -10,5 +10,5 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=flet" />
-  <img src="[https://skillicons.dev/icons?i=pandas](https://gallery.flet.dev/icons-browser/icons/loading-animation.png)" width=30, heigth=30s />
+  <img src="https://gallery.flet.dev/icons-browser/icons/loading-animation.png" width=30, heigth=30s />
 </p>
