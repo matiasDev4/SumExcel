@@ -8,10 +8,12 @@
 
 ## Tecnologias que utilice
 <p>
-  Python
-  <img src="https://skillicons.dev/icons?i=python" />
-  Pandas
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width=40 heigth=30/>
-  Flet
-  <img src="https://gallery.flet.dev/icons-browser/icons/loading-animation.png" width=50 heigth=30 />
+  Python <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p>
+  Pandas <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width=40 heigth=30/>
+</p>
+<p>
+  Flet <img src="https://gallery.flet.dev/icons-browser/icons/loading-animation.png" width=50 heigth=30 />
+
 </p>
