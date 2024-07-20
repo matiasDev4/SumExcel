@@ -16,5 +16,5 @@
 - La aplicacion lo va analizar y automaticamene mostrara los resultados de las sumas
 
 
-https://github.com/user-attachments/assets/125d5954-dc9d-4cd9-a5a6-91f4e3ce3be0
+https://github.com/user-attachments/assets/4844d08b-9e77-4fa7-ba2b-5db603e99e30
 
